@@ -1,6 +1,6 @@
 # BrowsrApp
 
-Arquitecture: MVVM-R
+Architecture: MVVM-R
 
 SwiftUI
 
